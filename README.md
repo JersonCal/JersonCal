@@ -1,16 +1,16 @@
-## Hi there 👋
+## ¡Hola! Soy Jerson Calderon
 
-<!--
-**JersonCal/JersonCal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Estudiante de Ingeniería en Sistemas.** 
 
-Here are some ideas to get you started:
+Actualmente estoy sumergido en el mundo de la programación, con un enfoque especial en **Java POO**. Estoy explorando las bases de datos y me fascina todo lo relacionado con la **ciberseguridad** y las **redes**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+** Lo que estoy aprendiendo ahora:**
+* Redes
+* Java
+* MySQL
+* Python 
+* Cloud Computing
+* Inteligencia Artificial
+
+** Cómo contactarme:**
+* **Correo electrónico:** jerson.11marzo@gmail.com
